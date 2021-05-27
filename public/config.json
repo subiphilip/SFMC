@@ -21,7 +21,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://<your-domain-here>/journeybuilder/execute",
+          "url": "https://mc-journeybuilder-custactivity.herokuapp.com/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
